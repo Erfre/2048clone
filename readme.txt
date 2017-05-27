@@ -1,10 +1,10 @@
 
-# 1:2048 clone
+2048 Clone
 
 This is a copy of the game 2048 where you slide around numbered tiles on a 4x4 grid to combine them and create a 2048 tile or higher. Although my version don't have any scoreboard or scoring system. 
 
 
-## Installation
+Installation
 
 To get this project up and running you have to download this repo and open up the index.html in your prefered browser. This project is not tested on all browsers!
 1. Download or clone this repo
@@ -12,7 +12,7 @@ To get this project up and running you have to download this repo and open up th
 3. Open up the index.html in a browser
 4. Press the arrow keys to move the tiles around
 
-## History/Explanation
+History/Explanation
 
 This is my first javascript project, it's what got me into javascript.
 Initilly it was a challenge between a me and a friend to each write a 2048 clone and then compare the code, although the challenge kinda got forgotten. But I had already started and found a nice flow so I just went ahead.
@@ -35,7 +35,7 @@ Then it's time for a boardcheck to determine wether the board has changed or not
 
 If the board was transposed in the beginning it gets transposed one more time to retrun it into the "normal" state.
 
-## License
+License
 
 MIT License
 
@@ -58,7 +58,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
