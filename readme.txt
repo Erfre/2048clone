@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:2048 clone}
+
+# 1:2048 clone
 
 This is a copy of the game 2048 where you slide around numbered tiles on a 4x4 grid to combine them and create a 2048 tile or higher. Although my version don't have any scoreboard or scoring system. 
 
