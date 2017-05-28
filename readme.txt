@@ -55,6 +55,8 @@ there are no more moves available.
 If the board was transposed in the beginning it gets transposed one more time 
 to retrun it into the "normal" state.
 
+Date finsihed 2015-10-16
+
 License
 
 MIT License
