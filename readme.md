@@ -1,6 +1,5 @@
 # 2048 clone
-
-One Paragraph of project description goes here
+[demo](https://erfre.github.io/2048clone/)
 
 ## Description
 
